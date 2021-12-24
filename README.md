@@ -20,5 +20,6 @@ STEP 2.Give a name to your chatbot that should be unique.
 STEP 3.Add knowledge base in your chatbot so that your chatbot can learn from it.
 
 Here I am adding some screenshot of my chatbot during its testing period.
+![](cor.png)
 ## CONCLUSION
 So this chatbot will help  to solve  query related to corona.and I use azure service to create it as mention in Future Ready Talent.
