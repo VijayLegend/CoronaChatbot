@@ -10,10 +10,10 @@ This chatbot can answer your query regarding COVID19 like what is coivid19,how i
 
 
 ## HOW TO USE
-To use this chatbot you have to simply enter the url and write your query in given section.The chatbot will reply accordingly to your query.
+To use this chatbot you have to simply enter the url and write your query in given section.The chatbot will reply accordingly to your query.The link is http://vijaylegend.github.io/
 
 ## STEPS TO CREATE COVID CHATBOT
-STEP 1.Click on the "create resource group" then "AI + Machine learning".And finally click on "Web App BoT" on azure portall.
+STEP 1.Click on the "create resource group" then "AI + Machine learning".And finally click on "Web App BoT" on azure portal.
 
 STEP 2.Give a name to your chatbot that should be unique.
 
@@ -23,4 +23,4 @@ Here I am adding some screenshot of my chatbot during its testing period.
 ![](cor.jpg)
 ![](cor2.jpg)
 ## CONCLUSION
-So this chatbot will help  to solve  query related to corona.and I use azure service to create it as mention in Future Ready Talent.
+So this chatbot will help  to solve  query related to corona.And I use azure service to create it as mention in Future Ready Talent.
